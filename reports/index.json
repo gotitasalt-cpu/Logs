@@ -1,0 +1,41 @@
+{
+  "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.12"
+  },
+  "entries": [
+    {
+      "id": "20261108-011444-twcl",
+      "title": "Supcalus",
+      "commanders": [
+        "Supcalus"
+      ],
+      "guild": {
+        "id": "E2D2E888-B360-EF11-8467-122223FBD123",
+        "name": "Final Voyage",
+        "tag": "end"
+      },
+      "dateStart": "2026-11-08T04:14:44.000Z",
+      "dateEnd": "2026-11-08T05:02:47.714Z",
+      "dateLabel": "08-11-2026, 1:14:44 a. m. - 08-11-2026, 2:02:47 a. m.",
+      "url": "https://gotitasalt-cpu.github.io/Logs/?report=20261108-011444-twcl",
+      "publishedBy": "gotitasalt-cpu",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 15,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 15
+      }
+    }
+  ]
+}
